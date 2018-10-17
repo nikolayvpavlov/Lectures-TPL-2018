@@ -1,0 +1,6 @@
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\D.ThreadParams\bin\Debug\D.ThreadParams.exe.config
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\D.ThreadParams\bin\Debug\D.ThreadParams.exe
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\D.ThreadParams\bin\Debug\D.ThreadParams.pdb
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\D.ThreadParams\obj\Debug\D.ThreadParams.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\D.ThreadParams\obj\Debug\D.ThreadParams.exe
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\D.ThreadParams\obj\Debug\D.ThreadParams.pdb

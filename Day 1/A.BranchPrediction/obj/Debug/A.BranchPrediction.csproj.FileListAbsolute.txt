@@ -1,0 +1,7 @@
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\A.BranchPrediction\bin\Debug\A.BranchPrediction.exe.config
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\A.BranchPrediction\bin\Debug\A.BranchPrediction.exe
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\A.BranchPrediction\bin\Debug\A.BranchPrediction.pdb
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\A.BranchPrediction\obj\Debug\A.BranchPrediction.csprojAssemblyReference.cache
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\A.BranchPrediction\obj\Debug\A.BranchPrediction.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\A.BranchPrediction\obj\Debug\A.BranchPrediction.exe
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\A.BranchPrediction\obj\Debug\A.BranchPrediction.pdb

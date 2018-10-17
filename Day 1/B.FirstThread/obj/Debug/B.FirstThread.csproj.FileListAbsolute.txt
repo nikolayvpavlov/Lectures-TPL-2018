@@ -1,0 +1,6 @@
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\B.FirstThread\bin\Debug\B.FirstThread.exe.config
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\B.FirstThread\bin\Debug\B.FirstThread.exe
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\B.FirstThread\bin\Debug\B.FirstThread.pdb
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\B.FirstThread\obj\Debug\B.FirstThread.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\B.FirstThread\obj\Debug\B.FirstThread.exe
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\B.FirstThread\obj\Debug\B.FirstThread.pdb

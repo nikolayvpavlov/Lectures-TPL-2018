@@ -1,0 +1,10 @@
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\C.BlockingUI\bin\Debug\C.BlockingUI.exe.config
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\C.BlockingUI\bin\Debug\C.BlockingUI.exe
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\C.BlockingUI\bin\Debug\C.BlockingUI.pdb
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\C.BlockingUI\obj\Debug\C.BlockingUI.csprojAssemblyReference.cache
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\C.BlockingUI\obj\Debug\C.BlockingUI.MainForm.resources
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\C.BlockingUI\obj\Debug\C.BlockingUI.Properties.Resources.resources
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\C.BlockingUI\obj\Debug\C.BlockingUI.csproj.GenerateResource.cache
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\C.BlockingUI\obj\Debug\C.BlockingUI.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\C.BlockingUI\obj\Debug\C.BlockingUI.exe
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\C.BlockingUI\obj\Debug\C.BlockingUI.pdb

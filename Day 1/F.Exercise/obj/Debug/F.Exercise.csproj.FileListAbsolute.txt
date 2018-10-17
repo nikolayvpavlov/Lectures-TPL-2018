@@ -1,0 +1,6 @@
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\F.Exercise\bin\Debug\F.Exercise.exe.config
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\F.Exercise\bin\Debug\F.Exercise.exe
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\F.Exercise\bin\Debug\F.Exercise.pdb
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\F.Exercise\obj\Debug\F.Exercise.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\F.Exercise\obj\Debug\F.Exercise.exe
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\F.Exercise\obj\Debug\F.Exercise.pdb

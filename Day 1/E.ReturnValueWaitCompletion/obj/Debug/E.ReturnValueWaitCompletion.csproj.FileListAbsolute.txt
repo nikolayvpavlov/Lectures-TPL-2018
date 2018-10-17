@@ -1,0 +1,6 @@
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\E.ReturnValueWaitCompletion\bin\Debug\E.ReturnValueWaitCompletion.exe.config
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\E.ReturnValueWaitCompletion\bin\Debug\E.ReturnValueWaitCompletion.exe
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\E.ReturnValueWaitCompletion\bin\Debug\E.ReturnValueWaitCompletion.pdb
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\E.ReturnValueWaitCompletion\obj\Debug\E.ReturnValueWaitCompletion.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\E.ReturnValueWaitCompletion\obj\Debug\E.ReturnValueWaitCompletion.exe
+C:\Projects\Lectures\2018-2019\Parallel Programming\Day 1\E.ReturnValueWaitCompletion\obj\Debug\E.ReturnValueWaitCompletion.pdb
