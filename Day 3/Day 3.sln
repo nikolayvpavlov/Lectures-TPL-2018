@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A.ParallelSearching", "A.ParallelSearching\A.ParallelSearching.csproj", "{AEB50B5F-142F-414A-9D32-685B0112687D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B.ThreadPool", "B.ThreadPool\B.ThreadPool.csproj", "{5BE979A5-0924-40F8-A337-0524BA82D698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB50B5F-142F-414A-9D32-685B0112687D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB50B5F-142F-414A-9D32-685B0112687D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB50B5F-142F-414A-9D32-685B0112687D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB50B5F-142F-414A-9D32-685B0112687D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE979A5-0924-40F8-A337-0524BA82D698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE979A5-0924-40F8-A337-0524BA82D698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE979A5-0924-40F8-A337-0524BA82D698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE979A5-0924-40F8-A337-0524BA82D698}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F59372-D755-4777-AE53-D1B12B011F59}
+	EndGlobalSection
+EndGlobal
