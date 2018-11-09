@@ -1,0 +1,26 @@
+Bar
+- 10 seats
+--- When all seats are full, 
+other customers wait
+- Three types of drinks:
+--- Rakiya, Whiskey, Beer.
+--- Rakiya and Whiskey: 30 each;
+--- Beer is unlimited
+- Bar keeps record of orders
+
+
+Customers
+* Actions:
+--> Go for a walk
+--> Go to a bar.  Once inside the bar:
+----> Drink
+--------> Choose randomly what to drink;
+--------> If selection is out of stock: 
+	  choose smth. else.
+--------> Reduces bar supplies.
+----> Dance
+----> Leave the bar
+--> Go home
+
+
+
