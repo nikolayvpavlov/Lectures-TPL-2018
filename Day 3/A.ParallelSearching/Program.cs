@@ -14,8 +14,8 @@ namespace A.ParallelSearching
     {
         const int inputDataSize = 1_000_000;
         static Point[] inputData = new Point[inputDataSize];
-
-        const int searchDataSize = 100;
+        
+        const int searchDataSize = 1000;
         static Point[] searchData = new Point[searchDataSize];
         static Point[] resultData = new Point[searchDataSize];
 
@@ -63,18 +63,21 @@ namespace A.ParallelSearching
 
         static void AllThreadSearch()
         {
+            ManualResetEvent startEvent = new ManualResetEvent(false);
             List<Thread> threads = new List<Thread>();
             for (int i = 0; i < searchDataSize; i++)
             {
                 var thread = new Thread(
                     obj =>
                     {
+                        startEvent.WaitOne();
                         int index = (int)obj;
                         SearchOne(index);
                     });
                 thread.Start(i);
                 threads.Add(thread);
             }
+            startEvent.Set();
             foreach (var t in threads) t.Join();
         }
 
@@ -105,6 +108,15 @@ namespace A.ParallelSearching
             foreach (var t in threads) t.Join();
         }
 
+        static void ParallelThreadSearch()
+        {
+            System.Threading.Tasks.Parallel.For (0, searchDataSize, 
+                    index =>
+                    {
+                        SearchOne(index);
+                    });
+        }
+
         static void Main(string[] args)
         {
             Console.Write("Generatic data...  ");
@@ -115,11 +127,11 @@ namespace A.ParallelSearching
 
             Stopwatch watch = new Stopwatch();
 
-            Console.Write("Linear searching... ");
-            watch.Restart();
-            LinearSearch();
-            watch.Stop();
-            Console.WriteLine($"Done in {watch.ElapsedMilliseconds} ms.");
+            //Console.Write("Linear searching... ");
+            //watch.Restart();
+            //LinearSearch();
+            //watch.Stop();
+            //Console.WriteLine($"Done in {watch.ElapsedMilliseconds} ms.");
 
             Console.Write("All thread searching... ");
             watch.Restart();
@@ -130,6 +142,12 @@ namespace A.ParallelSearching
             Console.Write("Few thread searching... ");
             watch.Restart();
             FewThreadSearch();
+            watch.Stop();
+            Console.WriteLine($"Done in {watch.ElapsedMilliseconds} ms.");
+
+            Console.Write("Parallel thread searching... ");
+            watch.Restart();
+            ParallelThreadSearch();
             watch.Stop();
             Console.WriteLine($"Done in {watch.ElapsedMilliseconds} ms.");
 
